@@ -1,3 +1,6 @@
+# Structured Concurrency with Scala
+This repository contains examples of Scala, Ox and virtual threads belonging to my [Structured Concurrency on the JVM article](https://medium.com/jeroen-rosenberg/structured-concurrency-on-the-jvm-22c0ecead779)
+
 ## sbt project compiled with Scala 3
 
 ### Usage
